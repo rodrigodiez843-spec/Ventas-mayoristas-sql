@@ -9,18 +9,14 @@ Esquema estrella:
 - Dimensiones: clientes, productos, vendedores, provincias
 
 ## Funcionalidades
-- Análisis de ventas por región
-- Ranking de productos
+- Ventas por provincia
 - Performance de vendedores
+- Ranking de productos
 
-## Tecnologías
-- MySQL
-- SQL
-
-## Estructura
+## Scripts
 - creacion_db.sql
 - objetos_bd.sql
-- insert_datos.sql
+- insert_datos_realistas.sql
 
 ## Autor
 Rodrigo Diez
